@@ -1,0 +1,17 @@
+:root {
+  font-family: Poppins;
+  color-scheme: light;
+  color: #ff83e4;
+  background-color: #f5f3f3;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
